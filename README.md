@@ -1,2 +1,3 @@
-##Overview
-Welcome to the Book Analysis Project! This project focuses on developing a comprehensive book analysis platform using AI and data science techniques. The platform aims to provide insightful recommendations to users based on their preferences and interactions with books.
+# Book Analysis Project
+## Overview
+Welcome to the Book Analysis Project! This repository hosts a comprehensive book analysis platform developed using AI and data science techniques. The primary goal of this project is to provide personalized book recommendations to users by leveraging advanced recommendation algorithms.
